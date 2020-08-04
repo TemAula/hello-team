@@ -1,4 +1,6 @@
-# getting-started project
+# Projeto criado para Manual de Sobrevivencia do GitHub 2
+
+# Getting Started 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
